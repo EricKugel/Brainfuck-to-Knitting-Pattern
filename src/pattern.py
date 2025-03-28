@@ -39,7 +39,7 @@ class Pattern:
         pdf = FPDF()
 
         pdf.add_page()
-        pdf.image("/home/eric/Programming/Python/Brainfuck to Knitting Pattern/src/image.png", x=150, y=10, w=50)
+        pdf.image("C:/Users/erick/Documents/Programming/Python/Brainfuck-to-Knitting-Pattern/src/image.png", x=150, y=10, w=50)
 
         pdf.set_font("Arial", "B", 24)
         pdf.multi_cell(120, 10, self.title)
@@ -48,18 +48,26 @@ class Pattern:
         pdf.multi_cell(120, 5, f"By {self.author}")
         pdf.ln(5)
         pdf.set_font("Times", size=14)
-        pdf.multi_cell(120, text=self.description)
+        pdf.multi_cell(120, 5, self.description)
+        pdf.ln(20)
+
+        pdf.set_font("Times", "B", size=14)
+        pdf.multi_cell(160, 5, "Yarn, Needles, and Notions")
+        pdf.ln(1)
+        pdf.set_x(20)
+        pdf.set_font("Times", size=12)
+        pdf.multi_cell(160, 5, "You will need 2 special stitch markers and a couple dozen normal stitch markers. You can use any color or weight of yarn. You will need a secondary color in the same weight. Use any needles you like.")
         pdf.ln(20)
 
         for title, rows in self.rows.items():
             pdf.set_x(10)
             pdf.set_font("Times", "B", size=14)
-            pdf.multi_cell(160, 5, text=title)
+            pdf.multi_cell(160, 5, title)
             pdf.ln(1)
             pdf.set_x(20)
             pdf.set_font("Times", size=12)
             text = "\n".join([f"Row {i + 1}: {row}" for i, row in enumerate(rows)])
-            pdf.multi_cell(160, text=text)
+            pdf.multi_cell(160, 5, text)
             pdf.ln(10)
 
         pdf.output(f"{self.title}.pdf")

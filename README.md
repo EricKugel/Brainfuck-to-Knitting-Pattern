@@ -1,6 +1,6 @@
 # Brainfuck to Knitting Pattern
 
-This is a program to convert Brainfuck code into knitting patterns, to prove that knitting patterns are turing complete.
+This is a program to convert Brainfuck code into knitting patterns as pdfs, to prove that knitting patterns are turing complete.
 
 This is not made out of love for brainfuck, but because of its simplicity and proven turing-completeness.
 
