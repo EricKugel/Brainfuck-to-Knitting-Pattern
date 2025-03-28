@@ -1,0 +1,1121 @@
+Cozy Fizzbuzz Zipper Band
+By Eric Kugel
+
+Body
+	Row 1: co 1, psm, co 1 st, psm, *co 1 st, pm: repeat from * until 11 stitches have been cast on. co 1.
+	Row 2: Knit until special marker. Switch to sc. Knit until special marker. Switch to mc. Knit until end of row.
+	Row 3: Purl until special marker. Switch to sc. Purl until special marker. Switch to mc. Purl until end of row.
+	Row 4: Knit until special marker. kfb. Knit until end of row.
+	Row 5: Purl until special marker. pfb. Purl until end of row.
+	Row 6: Knit until special marker. kfb. Knit until end of row.
+	Row 7: Purl until special marker. pfb. Purl until end of row.
+	Row 8: Knit until special marker. kfb. Knit until end of row.
+	Row 9: Purl until special marker. pfb. Purl until end of row.
+	Row 10: Knit until special marker. kfb. Knit until end of row.
+	Row 11: Purl until special marker. pfb. Purl until end of row.
+	Row 12: Knit until special marker. kfb. Knit until end of row.
+	Row 13: Purl until special marker. pfb. Purl until end of row.
+	Row 14: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Pom Pom.
+	Row 15: Continue to instructions for None.
+
+Pom Pom
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until end of row.
+	Row 3: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 4: Purl until special marker. pfb. Purl until end of row.
+	Row 5: Knit until special marker. kfb. Knit until end of row.
+	Row 6: Purl until special marker. pfb. Purl until end of row.
+	Row 7: Knit until special marker. kfb. Knit until end of row.
+	Row 8: Purl until special marker. pfb. Purl until end of row.
+	Row 9: Knit until special marker. kfb. Knit until end of row.
+	Row 10: Purl until special marker. pfb. Purl until end of row.
+	Row 11: Knit until special marker. kfb. Knit until end of row.
+	Row 12: Purl until special marker. pfb. Purl until end of row.
+	Row 13: Knit until special marker. kfb. Knit until end of row.
+	Row 14: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 15: Knit until special marker. k2tog. Knit until end of row.
+	Row 16: Purl until end of row.
+	Row 17: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Pom Pom Back.
+	Row 18: Continue to instructions for Body Cuff.
+
+Pom Pom Back
+	Row 1: Continue to instructions for Pom Pom.
+
+Body Cuff
+	Row 1: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 2: Purl until end of row.
+	Row 3: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 4: Purl until special marker. pfb. Purl until end of row.
+	Row 5: Knit until special marker. kfb. Knit until end of row.
+	Row 6: Purl until special marker. pfb. Purl until end of row.
+	Row 7: Knit until special marker. kfb. Knit until end of row.
+	Row 8: Purl until special marker. pfb. Purl until end of row.
+	Row 9: Knit until special marker. kfb. Knit until end of row.
+	Row 10: Purl until special marker. pfb. Purl until end of row.
+	Row 11: Knit until special marker. kfb. Knit until end of row.
+	Row 12: Purl until special marker. pfb. Purl until end of row.
+	Row 13: Knit until special marker. kfb. Knit until end of row.
+	Row 14: Purl until end of row.
+	Row 15: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 16: Purl until special marker. p2tog. Purl until end of row.
+	Row 17: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 18: Purl until end of row.
+	Row 19: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 20: Purl until end of row.
+	Row 21: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 22: Purl until end of row.
+	Row 23: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 24: Purl until end of row.
+	Row 25: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 26: Purl until end of row.
+	Row 27: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 28: Purl until end of row.
+	Row 29: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 30: Purl until end of row.
+	Row 31: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 32: Purl until end of row.
+	Row 33: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 34: Purl until end of row.
+	Row 35: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 36: Purl until end of row.
+	Row 37: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 38: Purl until special marker. p2tog. Purl until end of row.
+	Row 39: Knit until special marker. k2tog. Knit until end of row.
+	Row 40: Purl until end of row.
+	Row 41: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 42: Purl until end of row.
+	Row 43: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 44: Purl until special marker. pfb. Purl until end of row.
+	Row 45: Knit until special marker. kfb. Knit until end of row.
+	Row 46: Purl until special marker. pfb. Purl until end of row.
+	Row 47: Knit until special marker. kfb. Knit until end of row.
+	Row 48: Purl until special marker. pfb. Purl until end of row.
+	Row 49: Knit until special marker. kfb. Knit until end of row.
+	Row 50: Purl until special marker. pfb. Purl until end of row.
+	Row 51: Knit until special marker. kfb. Knit until end of row.
+	Row 52: Purl until special marker. pfb. Purl until end of row.
+	Row 53: Knit until special marker. kfb. Knit until end of row.
+	Row 54: Purl until end of row.
+	Row 55: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Brim.
+	Row 56: Continue to instructions for None.
+
+Brim
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 4: Purl until special marker. pfb. Purl until end of row.
+	Row 5: Knit until special marker. kfb. Knit until end of row.
+	Row 6: Purl until special marker. pfb. Purl until end of row.
+	Row 7: Knit until special marker. kfb. Knit until end of row.
+	Row 8: Purl until special marker. pfb. Purl until end of row.
+	Row 9: Knit until special marker. kfb. Knit until end of row.
+	Row 10: Purl until special marker. pfb. Purl until end of row.
+	Row 11: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 12: Purl until special marker. pfb. Purl until end of row.
+	Row 13: Knit until special marker. kfb. Knit until end of row.
+	Row 14: Purl until special marker. pfb. Purl until end of row.
+	Row 15: Knit until special marker. kfb. Knit until end of row.
+	Row 16: Purl until special marker. pfb. Purl until end of row.
+	Row 17: Knit until special marker. kfb. Knit until end of row.
+	Row 18: Purl until special marker. pfb. Purl until end of row.
+	Row 19: Knit until special marker. kfb. Knit until end of row.
+	Row 20: Purl until special marker. pfb. Purl until end of row.
+	Row 21: Knit until special marker. kfb. Knit until end of row.
+	Row 22: Purl until end of row.
+	Row 23: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 24: Purl until special marker. pfb. Purl until end of row.
+	Row 25: Knit until special marker. kfb. Knit until end of row.
+	Row 26: Purl until special marker. pfb. Purl until end of row.
+	Row 27: Knit until special marker. kfb. Knit until end of row.
+	Row 28: Purl until special marker. pfb. Purl until end of row.
+	Row 29: Knit until special marker. kfb. Knit until end of row.
+	Row 30: Purl until special marker. pfb. Purl until end of row.
+	Row 31: Knit until special marker. kfb. Knit until end of row.
+	Row 32: Purl until special marker. pfb. Purl until end of row.
+	Row 33: Knit until special marker. kfb. Knit until end of row.
+	Row 34: Purl until special marker. pfb. Purl until end of row.
+	Row 35: Knit until special marker. kfb. Knit until end of row.
+	Row 36: Purl until end of row.
+	Row 37: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 38: Purl until special marker. pfb. Purl until end of row.
+	Row 39: Knit until special marker. kfb. Knit until end of row.
+	Row 40: Purl until special marker. pfb. Purl until end of row.
+	Row 41: Knit until special marker. kfb. Knit until end of row.
+	Row 42: Purl until special marker. pfb. Purl until end of row.
+	Row 43: Knit until special marker. kfb. Knit until end of row.
+	Row 44: Purl until special marker. pfb. Purl until end of row.
+	Row 45: Knit until special marker. kfb. Knit until end of row.
+	Row 46: Purl until special marker. pfb. Purl until end of row.
+	Row 47: Knit until special marker. kfb. Knit until end of row.
+	Row 48: Purl until special marker. pfb. Purl until end of row.
+	Row 49: Knit until special marker. kfb. Knit until end of row.
+	Row 50: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 51: Knit until end of row.
+	Row 52: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 53: Knit until end of row.
+	Row 54: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 55: Knit until end of row.
+	Row 56: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 57: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Brim Back.
+	Row 58: Continue to instructions for Body Cuff Cuff.
+
+Brim Back
+	Row 1: Continue to instructions for Brim.
+
+Body Cuff Cuff
+	Row 1: Purl until special marker. pfb. Purl until end of row.
+	Row 2: Knit until special marker. kfb. Knit until end of row.
+	Row 3: Purl until special marker. pfb. Purl until end of row.
+	Row 4: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 5: Purl until end of row.
+	Row 6: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 7: Purl until special marker. pfb. Purl until end of row.
+	Row 8: Knit until special marker. kfb. Knit until end of row.
+	Row 9: Purl until special marker. pfb. Purl until end of row.
+	Row 10: Knit until special marker. kfb. Knit until end of row.
+	Row 11: Purl until special marker. pfb. Purl until end of row.
+	Row 12: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 13: Purl until special marker. pfb. Purl until end of row.
+	Row 14: Knit until special marker. kfb. Knit until end of row.
+	Row 15: Purl until end of row.
+	Row 16: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 17: Purl until special marker. pfb. Purl until end of row.
+	Row 18: Knit until special marker. kfb. Knit until end of row.
+	Row 19: Purl until end of row.
+	Row 20: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 21: Purl until end of row.
+	Row 22: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 23: Purl until special marker. p2tog. Purl until end of row.
+	Row 24: Knit until special marker. k2tog. Knit until end of row.
+	Row 25: Purl until end of row.
+	Row 26: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 27: Purl until end of row.
+	Row 28: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 29: Purl until special marker. pfb. Purl until end of row.
+	Row 30: Knit until special marker. kfb. Knit until end of row.
+	Row 31: Purl until special marker. pfb. Purl until end of row.
+	Row 32: Knit until special marker. kfb. Knit until end of row.
+	Row 33: Purl until special marker. pfb. Purl until end of row.
+	Row 34: Knit until special marker. kfb. Knit until end of row.
+	Row 35: Purl until special marker. pfb. Purl until end of row.
+	Row 36: Knit until special marker. kfb. Knit until end of row.
+	Row 37: Purl until special marker. pfb. Purl until end of row.
+	Row 38: Knit until special marker. kfb. Knit until end of row.
+	Row 39: Purl until end of row.
+	Row 40: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Toe.
+	Row 41: Continue to instructions for None.
+
+Toe
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 4: Purl until special marker. pfb. Purl until end of row.
+	Row 5: Knit until special marker. kfb. Knit until end of row.
+	Row 6: Purl until special marker. pfb. Purl until end of row.
+	Row 7: Knit until special marker. kfb. Knit until end of row.
+	Row 8: Purl until special marker. pfb. Purl until end of row.
+	Row 9: Knit until special marker. kfb. Knit until end of row.
+	Row 10: Purl until special marker. pfb. Purl until end of row.
+	Row 11: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 12: Purl until special marker. pfb. Purl until end of row.
+	Row 13: Knit until special marker. kfb. Knit until end of row.
+	Row 14: Purl until special marker. pfb. Purl until end of row.
+	Row 15: Knit until special marker. kfb. Knit until end of row.
+	Row 16: Purl until special marker. pfb. Purl until end of row.
+	Row 17: Knit until special marker. kfb. Knit until end of row.
+	Row 18: Purl until special marker. pfb. Purl until end of row.
+	Row 19: Knit until special marker. kfb. Knit until end of row.
+	Row 20: Purl until special marker. pfb. Purl until end of row.
+	Row 21: Knit until special marker. kfb. Knit until end of row.
+	Row 22: Purl until special marker. pfb. Purl until end of row.
+	Row 23: Knit until special marker. kfb. Knit until end of row.
+	Row 24: Purl until end of row.
+	Row 25: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 26: Purl until special marker. pfb. Purl until end of row.
+	Row 27: Knit until special marker. kfb. Knit until end of row.
+	Row 28: Purl until special marker. pfb. Purl until end of row.
+	Row 29: Knit until special marker. kfb. Knit until end of row.
+	Row 30: Purl until special marker. pfb. Purl until end of row.
+	Row 31: Knit until special marker. kfb. Knit until end of row.
+	Row 32: Purl until special marker. pfb. Purl until end of row.
+	Row 33: Knit until special marker. kfb. Knit until end of row.
+	Row 34: Purl until special marker. pfb. Purl until end of row.
+	Row 35: Knit until special marker. kfb. Knit until end of row.
+	Row 36: Purl until special marker. pfb. Purl until end of row.
+	Row 37: Knit until special marker. kfb. Knit until end of row.
+	Row 38: Purl until end of row.
+	Row 39: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 40: Purl until special marker. pfb. Purl until end of row.
+	Row 41: Knit until special marker. kfb. Knit until end of row.
+	Row 42: Purl until special marker. pfb. Purl until end of row.
+	Row 43: Knit until special marker. kfb. Knit until end of row.
+	Row 44: Purl until special marker. pfb. Purl until end of row.
+	Row 45: Knit until special marker. kfb. Knit until end of row.
+	Row 46: Purl until special marker. pfb. Purl until end of row.
+	Row 47: Knit until special marker. kfb. Knit until end of row.
+	Row 48: Purl until special marker. pfb. Purl until end of row.
+	Row 49: Knit until special marker. kfb. Knit until end of row.
+	Row 50: Purl until special marker. pfb. Purl until end of row.
+	Row 51: Knit until special marker. kfb. Knit until end of row.
+	Row 52: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 53: Knit until end of row.
+	Row 54: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 55: Knit until end of row.
+	Row 56: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 57: Knit until end of row.
+	Row 58: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 59: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Toe Back.
+	Row 60: Continue to instructions for Body Cuff Cuff Cuff.
+
+Toe Back
+	Row 1: Continue to instructions for Toe.
+
+Body Cuff Cuff Cuff
+	Row 1: Purl until special marker. pfb. Purl until end of row.
+	Row 2: Knit until special marker. kfb. Knit until end of row.
+	Row 3: Purl until special marker. pfb. Purl until end of row.
+	Row 4: Knit until special marker. kfb. Knit until end of row.
+	Row 5: Purl until special marker. pfb. Purl until end of row.
+	Row 6: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 7: Purl until special marker. p2tog. Purl until end of row.
+	Row 8: Knit until special marker. k2tog. Knit until end of row.
+	Row 9: Purl until special marker. p2tog. Purl until end of row.
+	Row 10: Knit until special marker. k2tog. Knit until end of row.
+	Row 11: Purl until end of row.
+	Row 12: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 13: Purl until special marker. p2tog. Purl until end of row.
+	Row 14: Knit until special marker. k2tog. Knit until end of row.
+	Row 15: Purl until special marker. p2tog. Purl until end of row.
+	Row 16: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 17: Purl until special marker. pfb. Purl until end of row.
+	Row 18: Knit until special marker. kfb. Knit until end of row.
+	Row 19: Purl until end of row.
+	Row 20: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 21: Purl until special marker. pfb. Purl until end of row.
+	Row 22: Knit until special marker. kfb. Knit until end of row.
+	Row 23: Purl until end of row.
+	Row 24: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 25: Purl until end of row.
+	Row 26: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 27: Purl until special marker. p2tog. Purl until end of row.
+	Row 28: Knit until special marker. k2tog. Knit until end of row.
+	Row 29: Purl until end of row.
+	Row 30: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 31: Purl until special marker. p2tog. Purl until end of row.
+	Row 32: Knit until special marker. k2tog. Knit until end of row.
+	Row 33: Purl until special marker. p2tog. Purl until end of row.
+	Row 34: Knit until special marker. kfb. Knit until end of row.
+	Row 35: Purl until end of row.
+	Row 36: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Toe Version 2.
+	Row 37: Continue to instructions for None.
+
+Toe Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until end of row.
+	Row 4: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 5: Knit until special marker. kfb. Knit until end of row.
+	Row 6: Purl until end of row.
+	Row 7: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Toe Version 2 Back.
+	Row 8: Continue to instructions for Body Cuff Cuff Cuff Cuff.
+
+Toe Version 2 Back
+	Row 1: Continue to instructions for Toe Version 2.
+
+Body Cuff Cuff Cuff Cuff
+	Row 1: Purl until special marker. p2tog. Purl until end of row.
+	Row 2: Knit until end of row.
+	Row 3: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 4: Knit until end of row.
+	Row 5: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 6: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Thumb.
+	Row 7: Continue to instructions for None.
+
+Thumb
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 4: Purl until end of row.
+	Row 5: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 6: Purl until end of row.
+	Row 7: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 8: Purl until special marker. pfb. Purl until end of row.
+	Row 9: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 10: Purl until special marker. pfb. Purl until end of row.
+	Row 11: Knit until special marker. kfb. Knit until end of row.
+	Row 12: Purl until end of row.
+	Row 13: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Cuff.
+	Row 14: Continue to instructions for Body Cuff Cuff Cuff Cuff Cuff.
+
+Cuff
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until special marker. k2tog. Knit until end of row.
+	Row 4: Purl until end of row.
+	Row 5: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 6: Purl until special marker. pfb. Purl until end of row.
+	Row 7: Knit until special marker. kfb. Knit until end of row.
+	Row 8: Purl until end of row.
+	Row 9: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Cuff Back.
+	Row 10: Continue to instructions for Thumb Cuff.
+
+Cuff Back
+	Row 1: Continue to instructions for Cuff.
+
+Thumb Cuff
+	Row 1: Purl until special marker. p2tog. Purl until end of row.
+	Row 2: Knit until special marker. k2tog. Knit until end of row.
+	Row 3: Purl until end of row.
+	Row 4: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 5: Purl until special marker. pfb. Purl until end of row.
+	Row 6: Knit until special marker. kfb. Knit until end of row.
+	Row 7: Purl until special marker. pfb. Purl until end of row.
+	Row 8: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Buttons.
+	Row 9: Continue to instructions for Body Cuff Cuff Cuff Cuff Cuff.
+
+Buttons
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until special marker. k2tog. Knit until end of row.
+	Row 4: Purl until special marker. p2tog. Purl until end of row.
+	Row 5: Knit until end of row.
+	Row 6: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 7: Knit until special marker. k2tog. Knit until end of row.
+	Row 8: Purl until special marker. p2tog. Purl until end of row.
+	Row 9: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 10: Purl until special marker. pfb. Purl until end of row.
+	Row 11: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 12: Purl until special marker. p2tog. Purl until end of row.
+	Row 13: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Back.
+	Row 14: Continue to instructions for Thumb Cuff Cuff.
+
+Back
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 3: Knit until end of row.
+	Row 4: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 5: Knit until special marker. kfb. Knit until end of row.
+	Row 6: Purl until special marker. pfb. Purl until end of row.
+	Row 7: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Pockets.
+	Row 8: Continue to instructions for Buttons Cuff.
+
+Pockets
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until end of row.
+	Row 3: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 4: Purl until end of row.
+	Row 5: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Pockets Back.
+	Row 6: Continue to instructions for Back Cuff.
+
+Pockets Back
+	Row 1: Continue to instructions for Pockets.
+
+Back Cuff
+	Row 1: Knit until special marker. kfb. Knit until end of row.
+	Row 2: Purl until special marker. pfb. Purl until end of row.
+	Row 3: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Zipper Band Version 2.
+	Row 4: Continue to instructions for Buttons Cuff.
+
+Zipper Band Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until special marker. k2tog. Knit until end of row.
+	Row 4: Purl until end of row.
+	Row 5: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 6: Purl until special marker. pfb. Purl until end of row.
+	Row 7: Knit until special marker. kfb. Knit until end of row.
+	Row 8: Purl until end of row.
+	Row 9: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Zipper Band Version 2 Back.
+	Row 10: Continue to instructions for Back Cuff Cuff.
+
+Zipper Band Version 2 Back
+	Row 1: Continue to instructions for Zipper Band Version 2.
+
+Back Cuff Cuff
+	Row 1: Knit until special marker. k2tog. Knit until end of row.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until end of row.
+	Row 4: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 5: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Back Cuff Cuff Back.
+	Row 6: Continue to instructions for Buttons Cuff.
+
+Back Cuff Cuff Back
+	Row 1: Continue to instructions for Back Cuff Cuff.
+
+Buttons Cuff
+	Row 1: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 2: Purl until special marker. pfb. Purl until end of row.
+	Row 3: Knit until special marker. kfb. Knit until end of row.
+	Row 4: Purl until end of row.
+	Row 5: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Cuff Version 2.
+	Row 6: Continue to instructions for Thumb Cuff Cuff.
+
+Cuff Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until special marker. k2tog. Knit until end of row.
+	Row 4: Purl until special marker. pfb. Purl until end of row.
+	Row 5: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Neckline.
+	Row 6: Continue to instructions for Buttons Cuff Cuff.
+
+Neckline
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until end of row.
+	Row 4: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 5: Knit until special marker. kfb. Knit until end of row.
+	Row 6: Purl until end of row.
+	Row 7: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Neckline Back.
+	Row 8: Continue to instructions for Cuff Version 2 Cuff.
+
+Neckline Back
+	Row 1: Continue to instructions for Neckline.
+
+Cuff Version 2 Cuff
+	Row 1: Knit until special marker. k2tog. Knit until end of row.
+	Row 2: Purl until end of row.
+	Row 3: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 4: Purl until end of row.
+	Row 5: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 6: Purl until end of row.
+	Row 7: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Handles.
+	Row 8: Continue to instructions for Buttons Cuff Cuff.
+
+Handles
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Handles Back.
+	Row 4: Continue to instructions for Cuff Version 2 Cuff Cuff.
+
+Handles Back
+	Row 1: Continue to instructions for Handles.
+
+Cuff Version 2 Cuff Cuff
+	Row 1: Purl until special marker. pfb. Purl until end of row.
+	Row 2: Knit until special marker. kfb. Knit until end of row.
+	Row 3: Purl until special marker. pfb. Purl until end of row.
+	Row 4: Knit until special marker. kfb. Knit until end of row.
+	Row 5: Purl until special marker. pfb. Purl until end of row.
+	Row 6: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Back Version 2.
+	Row 7: Continue to instructions for Buttons Cuff Cuff.
+
+Back Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until special marker. k2tog. Knit until end of row.
+	Row 4: Purl until special marker. p2tog. Purl until end of row.
+	Row 5: Knit until special marker. k2tog. Knit until end of row.
+	Row 6: Purl until end of row.
+	Row 7: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 8: Purl until special marker. pfb. Purl until end of row.
+	Row 9: Knit until special marker. kfb. Knit until end of row.
+	Row 10: Purl until special marker. pfb. Purl until end of row.
+	Row 11: Knit until special marker. kfb. Knit until end of row.
+	Row 12: Purl until end of row.
+	Row 13: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Back Version 2 Back.
+	Row 14: Continue to instructions for Cuff Version 2 Cuff Cuff Cuff.
+
+Back Version 2 Back
+	Row 1: Continue to instructions for Back Version 2.
+
+Cuff Version 2 Cuff Cuff Cuff
+	Row 1: Knit until special marker. k2tog. Knit until end of row.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 4: Purl until end of row.
+	Row 5: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Waistband.
+	Row 6: Continue to instructions for Buttons Cuff Cuff.
+
+Waistband
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 4: Purl until special marker. pfb. Purl until end of row.
+	Row 5: Knit until end of row.
+	Row 6: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 7: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Waistband Back.
+	Row 8: Continue to instructions for Cuff Version 2 Cuff Cuff Cuff Cuff.
+
+Waistband Back
+	Row 1: Continue to instructions for Waistband.
+
+Cuff Version 2 Cuff Cuff Cuff Cuff
+	Row 1: Purl until end of row.
+	Row 2: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 3: Purl until end of row.
+	Row 4: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 5: Purl until end of row.
+	Row 6: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Neckline Version 2.
+	Row 7: Continue to instructions for Buttons Cuff Cuff.
+
+Neckline Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. Switch to sc. Purl until special marker. Switch to mc. Purl until end of row.
+	Row 3: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 4: Purl until end of row.
+	Row 5: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Neckline Version 2 Back.
+	Row 6: Continue to instructions for Cuff Version 2 Cuff Cuff Cuff Cuff Cuff.
+
+Neckline Version 2 Back
+	Row 1: Continue to instructions for Neckline Version 2.
+
+Cuff Version 2 Cuff Cuff Cuff Cuff Cuff
+	Row 1: Purl until special marker. pfb. Purl until end of row.
+	Row 2: Knit until special marker. kfb. Knit until end of row.
+	Row 3: Purl until end of row.
+	Row 4: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Back Version 2 Version 2.
+	Row 5: Continue to instructions for Buttons Cuff Cuff.
+
+Back Version 2 Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until special marker. k2tog. Knit until end of row.
+	Row 4: Purl until end of row.
+	Row 5: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 6: Purl until special marker. pfb. Purl until end of row.
+	Row 7: Knit until special marker. kfb. Knit until end of row.
+	Row 8: Purl until end of row.
+	Row 9: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Back Version 2 Version 2 Back.
+	Row 10: Continue to instructions for Cuff Version 2 Cuff Cuff Cuff Cuff Cuff Cuff.
+
+Back Version 2 Version 2 Back
+	Row 1: Continue to instructions for Back Version 2 Version 2.
+
+Cuff Version 2 Cuff Cuff Cuff Cuff Cuff Cuff
+	Row 1: Purl until end of row.
+	Row 2: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Cuff Version 2 Cuff Cuff Cuff Cuff Cuff Cuff Back.
+	Row 3: Continue to instructions for Buttons Cuff Cuff.
+
+Cuff Version 2 Cuff Cuff Cuff Cuff Cuff Cuff Back
+	Row 1: Continue to instructions for Cuff Version 2 Cuff Cuff Cuff Cuff Cuff Cuff.
+
+Buttons Cuff Cuff
+	Row 1: Purl until special marker. p2tog. Purl until end of row.
+	Row 2: Knit until special marker. k2tog. Knit until end of row.
+	Row 3: Purl until end of row.
+	Row 4: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 5: Purl until special marker. pfb. Purl until end of row.
+	Row 6: Knit until special marker. kfb. Knit until end of row.
+	Row 7: Purl until special marker. pfb. Purl until end of row.
+	Row 8: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Buttons Cuff Cuff Back.
+	Row 9: Continue to instructions for Thumb Cuff Cuff.
+
+Buttons Cuff Cuff Back
+	Row 1: Continue to instructions for Buttons Cuff Cuff.
+
+Thumb Cuff Cuff
+	Row 1: Knit until special marker. k2tog. Knit until end of row.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until special marker. k2tog. Knit until end of row.
+	Row 4: Purl until special marker. pfb. Purl until end of row.
+	Row 5: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Pockets Version 2.
+	Row 6: Continue to instructions for Body Cuff Cuff Cuff Cuff Cuff.
+
+Pockets Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until end of row.
+	Row 4: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 5: Knit until special marker. kfb. Knit until end of row.
+	Row 6: Purl until end of row.
+	Row 7: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Pockets Version 2 Back.
+	Row 8: Continue to instructions for Thumb Cuff Cuff Cuff.
+
+Pockets Version 2 Back
+	Row 1: Continue to instructions for Pockets Version 2.
+
+Thumb Cuff Cuff Cuff
+	Row 1: Knit until special marker. k2tog. Knit until end of row.
+	Row 2: Purl until end of row.
+	Row 3: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 4: Purl until end of row.
+	Row 5: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 6: Purl until special marker. p2tog. Purl until end of row.
+	Row 7: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Zipper Band Version 2 Version 2.
+	Row 8: Continue to instructions for Body Cuff Cuff Cuff Cuff Cuff.
+
+Zipper Band Version 2 Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. pfb. Purl until end of row.
+	Row 3: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 4: Purl until special marker. pfb. Purl until end of row.
+	Row 5: Knit until special marker. kfb. Knit until end of row.
+	Row 6: Purl until special marker. pfb. Purl until end of row.
+	Row 7: Knit until special marker. kfb. Knit until end of row.
+	Row 8: Purl until special marker. pfb. Purl until end of row.
+	Row 9: Knit until special marker. kfb. Knit until end of row.
+	Row 10: Purl until special marker. pfb. Purl until end of row.
+	Row 11: Knit until special marker. kfb. Knit until end of row.
+	Row 12: Purl until special marker. pfb. Purl until end of row.
+	Row 13: Knit until special marker. kfb. Knit until end of row.
+	Row 14: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 15: Knit until end of row.
+	Row 16: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 17: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Sleeves.
+	Row 18: Continue to instructions for Thumb Cuff Cuff Cuff Cuff.
+
+Sleeves
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 4: Purl until special marker. pfb. Purl until end of row.
+	Row 5: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 6: Purl until special marker. p2tog. Purl until end of row.
+	Row 7: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Heel.
+	Row 8: Continue to instructions for Zipper Band Version 2 Version 2 Cuff.
+
+Heel
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until end of row.
+	Row 3: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 4: Purl until special marker. pfb. Purl until end of row.
+	Row 5: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 6: Purl until end of row.
+	Row 7: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 8: Purl until end of row.
+	Row 9: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Heel Back.
+	Row 10: Continue to instructions for Sleeves Cuff.
+
+Heel Back
+	Row 1: Continue to instructions for Heel.
+
+Sleeves Cuff
+	Row 1: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 2: Purl until end of row.
+	Row 3: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Heel Version 2.
+	Row 4: Continue to instructions for Zipper Band Version 2 Version 2 Cuff.
+
+Heel Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. pfb. Purl until end of row.
+	Row 3: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Thumb Version 2.
+	Row 4: Continue to instructions for Sleeves Cuff Cuff.
+
+Thumb Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until end of row.
+	Row 4: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 5: Knit until special marker. kfb. Knit until end of row.
+	Row 6: Purl until end of row.
+	Row 7: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 8: Purl until end of row.
+	Row 9: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Thumb Version 2 Back.
+	Row 10: Continue to instructions for Heel Version 2 Cuff.
+
+Thumb Version 2 Back
+	Row 1: Continue to instructions for Thumb Version 2.
+
+Heel Version 2 Cuff
+	Row 1: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 2: Purl until special marker. pfb. Purl until end of row.
+	Row 3: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 4: Purl until end of row.
+	Row 5: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 6: Purl until end of row.
+	Row 7: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Heel Version 2 Cuff Back.
+	Row 8: Continue to instructions for Sleeves Cuff Cuff.
+
+Heel Version 2 Cuff Back
+	Row 1: Continue to instructions for Heel Version 2 Cuff.
+
+Sleeves Cuff Cuff
+	Row 1: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 2: Knit until end of row.
+	Row 3: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 4: Knit until end of row.
+	Row 5: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 6: Knit until end of row.
+	Row 7: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 8: Knit until end of row.
+	Row 9: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 10: Knit until end of row.
+	Row 11: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 12: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Sleeves Cuff Cuff Back.
+	Row 13: Continue to instructions for Zipper Band Version 2 Version 2 Cuff.
+
+Sleeves Cuff Cuff Back
+	Row 1: Continue to instructions for Sleeves Cuff Cuff.
+
+Zipper Band Version 2 Version 2 Cuff
+	Row 1: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 2: Purl until end of row.
+	Row 3: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 4: Purl until end of row.
+	Row 5: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Waistband Version 2.
+	Row 6: Continue to instructions for Thumb Cuff Cuff Cuff Cuff.
+
+Waistband Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Waistband Version 2 Back.
+	Row 4: Continue to instructions for Zipper Band Version 2 Version 2 Cuff Cuff.
+
+Waistband Version 2 Back
+	Row 1: Continue to instructions for Waistband Version 2.
+
+Zipper Band Version 2 Version 2 Cuff Cuff
+	Row 1: Purl until end of row.
+	Row 2: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 3: Purl until end of row.
+	Row 4: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 5: Purl until end of row.
+	Row 6: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 7: Purl until special marker. pfb. Purl until end of row.
+	Row 8: Knit until special marker. kfb. Knit until end of row.
+	Row 9: Purl until special marker. pfb. Purl until end of row.
+	Row 10: Knit until special marker. kfb. Knit until end of row.
+	Row 11: Purl until special marker. pfb. Purl until end of row.
+	Row 12: Knit until special marker. kfb. Knit until end of row.
+	Row 13: Purl until special marker. pfb. Purl until end of row.
+	Row 14: Knit until special marker. kfb. Knit until end of row.
+	Row 15: Purl until special marker. pfb. Purl until end of row.
+	Row 16: Knit until special marker. kfb. Knit until end of row.
+	Row 17: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 18: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Heel Version 2 Version 2.
+	Row 19: Continue to instructions for Thumb Cuff Cuff Cuff Cuff.
+
+Heel Version 2 Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 4: Purl until special marker. p2tog. Purl until end of row.
+	Row 5: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Waistband Version 2 Version 2.
+	Row 6: Continue to instructions for Zipper Band Version 2 Version 2 Cuff Cuff Cuff.
+
+Waistband Version 2 Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until end of row.
+	Row 3: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 4: Purl until special marker. pfb. Purl until end of row.
+	Row 5: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 6: Purl until end of row.
+	Row 7: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 8: Purl until end of row.
+	Row 9: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Waistband Version 2 Version 2 Back.
+	Row 10: Continue to instructions for Heel Version 2 Version 2 Cuff.
+
+Waistband Version 2 Version 2 Back
+	Row 1: Continue to instructions for Waistband Version 2 Version 2.
+
+Heel Version 2 Version 2 Cuff
+	Row 1: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 2: Purl until end of row.
+	Row 3: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Waistband Version 2 Version 2 Version 2.
+	Row 4: Continue to instructions for Zipper Band Version 2 Version 2 Cuff Cuff Cuff.
+
+Waistband Version 2 Version 2 Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. pfb. Purl until end of row.
+	Row 3: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Sleeves Version 2.
+	Row 4: Continue to instructions for Heel Version 2 Version 2 Cuff Cuff.
+
+Sleeves Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until end of row.
+	Row 4: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 5: Knit until special marker. kfb. Knit until end of row.
+	Row 6: Purl until end of row.
+	Row 7: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 8: Purl until end of row.
+	Row 9: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Sleeves Version 2 Back.
+	Row 10: Continue to instructions for Waistband Version 2 Version 2 Version 2 Cuff.
+
+Sleeves Version 2 Back
+	Row 1: Continue to instructions for Sleeves Version 2.
+
+Waistband Version 2 Version 2 Version 2 Cuff
+	Row 1: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 2: Purl until special marker. pfb. Purl until end of row.
+	Row 3: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 4: Purl until end of row.
+	Row 5: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 6: Purl until end of row.
+	Row 7: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Waistband Version 2 Version 2 Version 2 Cuff Back.
+	Row 8: Continue to instructions for Heel Version 2 Version 2 Cuff Cuff.
+
+Waistband Version 2 Version 2 Version 2 Cuff Back
+	Row 1: Continue to instructions for Waistband Version 2 Version 2 Version 2 Cuff.
+
+Heel Version 2 Version 2 Cuff Cuff
+	Row 1: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 2: Knit until end of row.
+	Row 3: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 4: Knit until end of row.
+	Row 5: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 6: Knit until end of row.
+	Row 7: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 8: Knit until end of row.
+	Row 9: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 10: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Heel Version 2 Version 2 Cuff Cuff Back.
+	Row 11: Continue to instructions for Zipper Band Version 2 Version 2 Cuff Cuff Cuff.
+
+Heel Version 2 Version 2 Cuff Cuff Back
+	Row 1: Continue to instructions for Heel Version 2 Version 2 Cuff Cuff.
+
+Zipper Band Version 2 Version 2 Cuff Cuff Cuff
+	Row 1: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 2: Purl until end of row.
+	Row 3: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Finger.
+	Row 4: Continue to instructions for Thumb Cuff Cuff Cuff Cuff.
+
+Finger
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Finger Back.
+	Row 4: Continue to instructions for Zipper Band Version 2 Version 2 Cuff Cuff Cuff Cuff.
+
+Finger Back
+	Row 1: Continue to instructions for Finger.
+
+Zipper Band Version 2 Version 2 Cuff Cuff Cuff Cuff
+	Row 1: Purl until end of row.
+	Row 2: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 3: Purl until end of row.
+	Row 4: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 5: Purl until end of row.
+	Row 6: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Waistband Version 2 Version 2 Version 2 Version 2.
+	Row 7: Continue to instructions for Thumb Cuff Cuff Cuff Cuff.
+
+Waistband Version 2 Version 2 Version 2 Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until end of row.
+	Row 3: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 4: Purl until special marker. pfb. Purl until end of row.
+	Row 5: Knit until special marker. kfb. Knit until end of row.
+	Row 6: Purl until special marker. pfb. Purl until end of row.
+	Row 7: Knit until special marker. kfb. Knit until end of row.
+	Row 8: Purl until special marker. pfb. Purl until end of row.
+	Row 9: Knit until special marker. kfb. Knit until end of row.
+	Row 10: Purl until end of row.
+	Row 11: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Thumb Version 2 Version 2.
+	Row 12: Continue to instructions for Zipper Band Version 2 Version 2 Cuff Cuff Cuff Cuff Cuff.
+
+Thumb Version 2 Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until end of row.
+	Row 4: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 5: Knit until special marker. kfb. Knit until end of row.
+	Row 6: Purl until special marker. pfb. Purl until end of row.
+	Row 7: Knit until special marker. kfb. Knit until end of row.
+	Row 8: Purl until special marker. pfb. Purl until end of row.
+	Row 9: Knit until special marker. kfb. Knit until end of row.
+	Row 10: Purl until special marker. pfb. Purl until end of row.
+	Row 11: Knit until special marker. kfb. Knit until end of row.
+	Row 12: Purl until special marker. pfb. Purl until end of row.
+	Row 13: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 14: Purl until end of row.
+	Row 15: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Thumb Version 2 Version 2 Back.
+	Row 16: Continue to instructions for Waistband Version 2 Version 2 Version 2 Version 2 Cuff.
+
+Thumb Version 2 Version 2 Back
+	Row 1: Continue to instructions for Thumb Version 2 Version 2.
+
+Waistband Version 2 Version 2 Version 2 Version 2 Cuff
+	Row 1: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 2: Knit until special marker. Switch to sc. Knit until special marker. Switch to mc. Knit until end of row.
+	Row 3: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 4: Knit until end of row.
+	Row 5: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 6: Knit until special marker. kfb. Knit until end of row.
+	Row 7: Purl until end of row.
+	Row 8: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 9: Purl until special marker. pfb. Purl until end of row.
+	Row 10: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 11: Purl until end of row.
+	Row 12: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Finger Version 2.
+	Row 13: Continue to instructions for Zipper Band Version 2 Version 2 Cuff Cuff Cuff Cuff Cuff.
+
+Finger Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Finger Version 2 Back.
+	Row 4: Continue to instructions for Waistband Version 2 Version 2 Version 2 Version 2 Cuff Cuff.
+
+Finger Version 2 Back
+	Row 1: Continue to instructions for Finger Version 2.
+
+Waistband Version 2 Version 2 Version 2 Version 2 Cuff Cuff
+	Row 1: Purl until end of row.
+	Row 2: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Waistband Version 2 Version 2 Version 2 Version 2 Cuff Cuff Back.
+	Row 3: Continue to instructions for Zipper Band Version 2 Version 2 Cuff Cuff Cuff Cuff Cuff.
+
+Waistband Version 2 Version 2 Version 2 Version 2 Cuff Cuff Back
+	Row 1: Continue to instructions for Waistband Version 2 Version 2 Version 2 Version 2 Cuff Cuff.
+
+Zipper Band Version 2 Version 2 Cuff Cuff Cuff Cuff Cuff
+	Row 1: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 2: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Zipper Band Version 2 Version 2 Version 2.
+	Row 3: Continue to instructions for Thumb Cuff Cuff Cuff Cuff.
+
+Zipper Band Version 2 Version 2 Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 3: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Toe Version 2 Version 2.
+	Row 4: Continue to instructions for Zipper Band Version 2 Version 2 Cuff Cuff Cuff Cuff Cuff Cuff.
+
+Toe Version 2 Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 4: Purl until special marker. p2tog. Purl until end of row.
+	Row 5: Knit until end of row.
+	Row 6: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 7: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Toe Version 2 Version 2 Back.
+	Row 8: Continue to instructions for Zipper Band Version 2 Version 2 Version 2 Cuff.
+
+Toe Version 2 Version 2 Back
+	Row 1: Continue to instructions for Toe Version 2 Version 2.
+
+Zipper Band Version 2 Version 2 Version 2 Cuff
+	Row 1: Knit until special marker. kfb. Knit until end of row.
+	Row 2: Purl until special marker. pfb. Purl until end of row.
+	Row 3: Knit until special marker. kfb. Knit until end of row.
+	Row 4: Purl until special marker. pfb. Purl until end of row.
+	Row 5: Knit until special marker. kfb. Knit until end of row.
+	Row 6: Purl until special marker. pfb. Purl until end of row.
+	Row 7: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Sleeves Version 2 Version 2.
+	Row 8: Continue to instructions for Zipper Band Version 2 Version 2 Cuff Cuff Cuff Cuff Cuff Cuff.
+
+Sleeves Version 2 Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 4: Purl until special marker. pfb. Purl until end of row.
+	Row 5: Knit until special marker. kfb. Knit until end of row.
+	Row 6: Purl until special marker. pfb. Purl until end of row.
+	Row 7: Knit until special marker. kfb. Knit until end of row.
+	Row 8: Purl until special marker. pfb. Purl until end of row.
+	Row 9: Knit until special marker. kfb. Knit until end of row.
+	Row 10: Purl until special marker. pfb. Purl until end of row.
+	Row 11: Knit until special marker. kfb. Knit until end of row.
+	Row 12: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 13: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Sleeves Version 2 Version 2 Back.
+	Row 14: Continue to instructions for Zipper Band Version 2 Version 2 Version 2 Cuff Cuff.
+
+Sleeves Version 2 Version 2 Back
+	Row 1: Continue to instructions for Sleeves Version 2 Version 2.
+
+Zipper Band Version 2 Version 2 Version 2 Cuff Cuff
+	Row 1: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 2: Purl until special marker. Switch to sc. Purl until special marker. Switch to mc. Purl until end of row.
+	Row 3: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Pom Pom Version 2.
+	Row 4: Continue to instructions for Zipper Band Version 2 Version 2 Cuff Cuff Cuff Cuff Cuff Cuff.
+
+Pom Pom Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Pom Pom Version 2 Back.
+	Row 4: Continue to instructions for Zipper Band Version 2 Version 2 Version 2 Cuff Cuff Cuff.
+
+Pom Pom Version 2 Back
+	Row 1: Continue to instructions for Pom Pom Version 2.
+
+Zipper Band Version 2 Version 2 Version 2 Cuff Cuff Cuff
+	Row 1: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Zipper Band Version 2 Version 2 Version 2 Cuff Cuff Cuff Back.
+	Row 2: Continue to instructions for Zipper Band Version 2 Version 2 Cuff Cuff Cuff Cuff Cuff Cuff.
+
+Zipper Band Version 2 Version 2 Version 2 Cuff Cuff Cuff Back
+	Row 1: Continue to instructions for Zipper Band Version 2 Version 2 Version 2 Cuff Cuff Cuff.
+
+Zipper Band Version 2 Version 2 Cuff Cuff Cuff Cuff Cuff Cuff
+	Row 1: Knit until end of row.
+	Row 2: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 3: Knit until end of row.
+	Row 4: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 5: Knit until special marker. kfb. Knit until end of row.
+	Row 6: Purl until special marker. pfb. Purl until end of row.
+	Row 7: Knit until special marker. kfb. Knit until end of row.
+	Row 8: Purl until special marker. pfb. Purl until end of row.
+	Row 9: Knit until special marker. kfb. Knit until end of row.
+	Row 10: Purl until special marker. pfb. Purl until end of row.
+	Row 11: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Heel Version 2 Version 2 Version 2.
+	Row 12: Continue to instructions for Thumb Cuff Cuff Cuff Cuff.
+
+Heel Version 2 Version 2 Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until end of row.
+	Row 4: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 5: Knit until special marker. kfb. Knit until end of row.
+	Row 6: Purl until special marker. pfb. Purl until end of row.
+	Row 7: Knit until special marker. kfb. Knit until end of row.
+	Row 8: Purl until special marker. pfb. Purl until end of row.
+	Row 9: Knit until special marker. kfb. Knit until end of row.
+	Row 10: Purl until special marker. pfb. Purl until end of row.
+	Row 11: Knit until special marker. kfb. Knit until end of row.
+	Row 12: Purl until special marker. pfb. Purl until end of row.
+	Row 13: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 14: Purl until end of row.
+	Row 15: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Heel Version 2 Version 2 Version 2 Back.
+	Row 16: Continue to instructions for Zipper Band Version 2 Version 2 Cuff Cuff Cuff Cuff Cuff Cuff Cuff.
+
+Heel Version 2 Version 2 Version 2 Back
+	Row 1: Continue to instructions for Heel Version 2 Version 2 Version 2.
+
+Zipper Band Version 2 Version 2 Cuff Cuff Cuff Cuff Cuff Cuff Cuff
+	Row 1: Knit until end of row.
+	Row 2: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 3: Knit until special marker. Switch to sc. Knit until special marker. Switch to mc. Knit until end of row.
+	Row 4: Purl until end of row.
+	Row 5: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Cuff Version 2 Version 2.
+	Row 6: Continue to instructions for Thumb Cuff Cuff Cuff Cuff.
+
+Cuff Version 2 Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Cuff Version 2 Version 2 Back.
+	Row 4: Continue to instructions for Zipper Band Version 2 Version 2 Cuff Cuff Cuff Cuff Cuff Cuff Cuff Cuff.
+
+Cuff Version 2 Version 2 Back
+	Row 1: Continue to instructions for Cuff Version 2 Version 2.
+
+Zipper Band Version 2 Version 2 Cuff Cuff Cuff Cuff Cuff Cuff Cuff Cuff
+	Row 1: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 2: Knit until end of row.
+	Row 3: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 4: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Zipper Band Version 2 Version 2 Version 2 Version 2.
+	Row 5: Continue to instructions for Thumb Cuff Cuff Cuff Cuff.
+
+Zipper Band Version 2 Version 2 Version 2 Version 2
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. p2tog. Purl until end of row.
+	Row 3: Knit until end of row.
+	Row 4: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 5: Knit until special marker. kfb. Knit until end of row.
+	Row 6: Purl until end of row.
+	Row 7: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 8: Purl until end of row.
+	Row 9: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Zipper Band Version 2 Version 2 Version 2 Version 2 Back.
+	Row 10: Continue to instructions for Zipper Band Version 2 Version 2 Cuff Cuff Cuff Cuff Cuff Cuff Cuff Cuff Cuff.
+
+Zipper Band Version 2 Version 2 Version 2 Version 2 Back
+	Row 1: Continue to instructions for Zipper Band Version 2 Version 2 Version 2 Version 2.
+
+Zipper Band Version 2 Version 2 Cuff Cuff Cuff Cuff Cuff Cuff Cuff Cuff Cuff
+	Row 1: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Zipper Band Version 2 Version 2 Cuff Cuff Cuff Cuff Cuff Cuff Cuff Cuff Cuff Back.
+	Row 2: Continue to instructions for Thumb Cuff Cuff Cuff Cuff.
+
+Zipper Band Version 2 Version 2 Cuff Cuff Cuff Cuff Cuff Cuff Cuff Cuff Cuff Back
+	Row 1: Continue to instructions for Zipper Band Version 2 Version 2 Cuff Cuff Cuff Cuff Cuff Cuff Cuff Cuff Cuff.
+
+Thumb Cuff Cuff Cuff Cuff
+	Row 1: Knit until end of row.
+	Row 2: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 3: Knit until end of row.
+	Row 4: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 5: Knit until end of row.
+	Row 6: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 7: Knit until special marker. Switch to sc. Knit until special marker. Switch to mc. Knit until end of row.
+	Row 8: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 9: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Thumb Cuff Cuff Cuff Cuff Back.
+	Row 10: Continue to instructions for Body Cuff Cuff Cuff Cuff Cuff.
+
+Thumb Cuff Cuff Cuff Cuff Back
+	Row 1: Continue to instructions for Thumb Cuff Cuff Cuff Cuff.
+
+Body Cuff Cuff Cuff Cuff Cuff
+	Row 1: Cast off all stitches.
+

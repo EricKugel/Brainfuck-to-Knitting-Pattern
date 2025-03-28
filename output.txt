@@ -1,0 +1,64 @@
+Cozy Addition Shawl
+By Eric Kugel
+
+Body
+	Row 1: co 1, psm, co 1 st, psm, *co 1 st, pm: repeat from * until 11 stitches have been cast on. co 1.
+	Row 2: Knit until special marker. kfb. Knit until end of row.
+	Row 3: Purl until special marker. pfb. Purl until end of row.
+	Row 4: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 5: Purl until special marker. pfb. Purl until end of row.
+	Row 6: Knit until special marker. kfb. Knit until end of row.
+	Row 7: Purl until special marker. pfb. Purl until end of row.
+	Row 8: Knit until special marker. kfb. Knit until end of row.
+	Row 9: Purl until special marker. pfb. Purl until end of row.
+	Row 10: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Handles.
+	Row 11: Continue to instructions for None.
+
+Handles
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 3: Knit until special marker. kfb. Knit until end of row.
+	Row 4: Purl until end of row.
+	Row 5: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 6: Purl until special marker. p2tog. Purl until end of row.
+	Row 7: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Handles Back.
+	Row 8: Continue to instructions for Body Cuff.
+
+Handles Back
+	Row 1: Continue to instructions for Handles.
+
+Body Cuff
+	Row 1: Knit until special marker. kfb. Knit until end of row.
+	Row 2: Purl until special marker. pfb. Purl until end of row.
+	Row 3: Knit until special marker. kfb. Knit until end of row.
+	Row 4: Purl until special marker. pfb. Purl until end of row.
+	Row 5: Knit until special marker. kfb. Knit until end of row.
+	Row 6: Purl until special marker. pfb. Purl until end of row.
+	Row 7: Knit until special marker. kfb. Knit until end of row.
+	Row 8: Purl until special marker. pfb. Purl until end of row.
+	Row 9: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Brim.
+	Row 10: Continue to instructions for None.
+
+Brim
+	Row 1: Knit until end of current row if necessary.
+	Row 2: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 3: Knit until special marker. kfb. Knit until end of row.
+	Row 4: Purl until special marker. pfb. Purl until end of row.
+	Row 5: Knit until special marker. kfb. Knit until end of row.
+	Row 6: Purl until special marker. pfb. Purl until end of row.
+	Row 7: Knit until special marker. kfb. Knit until end of row.
+	Row 8: Purl until special marker. pfb. Purl until end of row.
+	Row 9: Knit until special marker. Replace the special marker with a normal marker. Knit until special marker. Knit until normal marker. Replace the normal marker with a special marker. Knit until end of row.
+	Row 10: Purl until special marker. p2tog. Purl until end of row.
+	Row 11: Knit until special marker. k1. Slip any markers. Knit until next special marker or end of row. Continue to instructions for Brim Back.
+	Row 12: Continue to instructions for Body Cuff Cuff.
+
+Brim Back
+	Row 1: Continue to instructions for Brim.
+
+Body Cuff Cuff
+	Row 1: Knit until end of row.
+	Row 2: Purl until special marker. Replace the special marker with a normal marker. Purl until special marker. Purl until normal marker. Replace the normal marker with a special marker. Purl until end of row.
+	Row 3: Knit until special marker. Switch to sc. Knit until special marker. Switch to mc. Knit until end of row.
+	Row 4: Cast off all stitches.
+
